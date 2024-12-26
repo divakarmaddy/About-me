@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/divakarmathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/divakarmathan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/divakarmathan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/divakarmathan" height="30" width="40" /></a>
 <a href="https://instagram.com/i'm on instagram as @divakaarx. install the app to follow my photos and videos. https://www.instagram.com/invites/contact/?igsh=zh5nht8k1yps&utm_content=5zmak4j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i'm on instagram as @divakaarx. install the app to follow my photos and videos. https://www.instagram.com/invites/contact/?igsh=zh5nht8k1yps&utm_content=5zmak4j" height="30" width="40" /></a>
 </p>
 
