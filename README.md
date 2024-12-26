@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divakar</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🌱 I’m currently learning **Django,Flask advance.**
+- 🌱 I’m currently learning **advance Technologies.**
 
 - 👨‍💻 All of my mini projects are available at [https://github.com/divakarmaddy](https://github.com/divakarmaddy)
 
